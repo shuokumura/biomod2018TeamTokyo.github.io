@@ -5,7 +5,7 @@ ul {
   list-style:none;
 }
 
-/* style of the link button */
+/* Link Button */
 
 .square_btn{
     position: relative;
@@ -25,6 +25,7 @@ ul {
     background: #668ad8;
     color: #FFF;
 }
+
 /* Wrap buttons when the screen is narrow */
 .fl_tw {
   text-decoration: none;
@@ -40,6 +41,7 @@ ul {
   transition: .5s;
 }
 
+/* Twitter */
 .fl_tw .twicon{
   border-radius: 10px;
   position: relative;
@@ -57,7 +59,7 @@ ul {
   line-height: 50px;
 }
 
-
+/* ? */
 ul {
   display: flex;
   flex-direction:row;
